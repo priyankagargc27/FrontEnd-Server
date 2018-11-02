@@ -1,0 +1,411 @@
+{
+    "users": [
+      {
+        "name": "Priyanka Garg",
+        "email": "priyanka.g.85@gmail.com",
+        "password": "1234",
+        "id": 1
+      },
+      {
+        "name": "Priyanka",
+        "email": "me@test.com",
+        "password": "aa",
+        "id": 2
+      },
+      {
+        "name": "tuffy2",
+        "email": "a@a.com",
+        "password": "a",
+        "id": 3
+      },
+      {
+        "name": "",
+        "email": "priyanka.g.85@gmail.com",
+        "password": "1234",
+        "id": 4
+      },
+      {
+        "name": "jordan",
+        "email": "foo@foo.com",
+        "password": "aa",
+        "id": 5
+      },
+      {
+        "name": "Priyanka",
+        "email": "me@gmail.com",
+        "password": "aa",
+        "id": 6
+      },
+      {
+        "name": "Priyanka",
+        "email": "priyanka.g.85@gmail.com",
+        "password": "1234",
+        "id": 7
+      },
+      {
+        "name": "tuffy2",
+        "email": "priyanka.g.85@gmail.com",
+        "password": "1234",
+        "id": 8
+      },
+      {
+        "name": "",
+        "email": "priyanka.g.85@gmail.com",
+        "password": "1234",
+        "id": 9
+      },
+      {
+        "name": "Aryan",
+        "email": "aryan@test.com",
+        "password": "aryan",
+        "id": 10
+      },
+      {
+        "name": "Dolly",
+        "email": "dolly@gmail.com",
+        "password": "abc",
+        "id": 11
+      },
+      {
+        "name": "",
+        "email": "aa@aa",
+        "password": "aa",
+        "id": 12
+      },
+      {
+        "name": "",
+        "email": "p@p.com",
+        "password": "aa",
+        "id": 13
+      },
+      {
+        "name": "",
+        "email": "p@p.com",
+        "password": "aa",
+        "id": 14
+      }
+    ],
+    "profiles": [
+      {
+        "name": "Priyanka Garg",
+        "Image": "https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/23916019_10208541834301810_7424727836236569917_n.jpg?_nc_cat=108&oh=b915c100f249d4225b35984c0a289903&oe=5C263BFA",
+        "statement": "I was born in North India into a vegetarian family. My mother is an excellent cook who paid attention to every detail. One of the most important details for me is cooking with fresh ingredients. As a child and young adult, I helped my mother in the kitchen. I learned to cook with just a few spices and herbs in order not to compromise the taste of the vegetables, grains and lentils.After I got married and moved to the United States from India in 2010, my family remained vegetarian. I am passionate about this way of life today. I am here to show you simple and practical recipes that carry out the authenticity of Indian vegetarian cooking.",
+        "userId": 1,
+        "id": 4
+      }
+    ],
+    "friends": [
+      {
+        "userId": 2,
+        "friendId": 1,
+        "id": 1
+      }
+    ],
+    "recipes": [
+      {
+        "title": "Vegetable Biryani",
+        "cookTime": "30-35 minutes",
+        "image": "https://1.bp.blogspot.com/-K8NZg6QdHT0/VvgPWYfY0cI/AAAAAAAAV0k/Kl9-BGH1C3sETmQskVm83j3W99JyGodqQ/s1600/Palak%2BVeg%2BBiryani%2B%25283%2529%2B-%2B1.jpg",
+        "ingredients": "• Cashewnuts - 15 grams. • Mint - 40 grams. • Biryani masala - 1 bag. • Whole garam masala - 1 teaspoons. • Cauliflower - 100 grams. • Ginger garlic paste - 1 tablespoons. • Gr chilli sliced - 3 numbers. • Fried onions - 40 grams. • Paneer - 50 grams. • Carrots - 100 grams. • Potatoes - 100 grams. • Kala jeera - 1 teaspoons. • Rice - 300 grams. • Almonds - 15 grams. • Oil - 100 ml. • Curds - 200 grams. • Salt - 1 to taste.",
+        "direction": "Take a pan add oil,garam masala, saute it add jeera, ginger garlic paste, vegetables cut a little bit long size mix well and add salt, need to cook till they are half cooked. Now add mint, coriander, green chillies, biryani masala mix half cup of curd, add paneer. Soak rice for 1 hr in abowl. Now boil water add rice to it, let the rice to be cooked half (70%) and strain the rice. Take a biryani bowl add half of the cooked vegetables spread all over the pan add some curd, nuts if required, salt, fry onions, add half rice, repeat the same process again. Lastly add fried onions, bread, close it with a lid, and cook it for 5 minutes on a very slow flame.",
+        "userId": 1,
+        "id": 6,
+        "rating": 3
+      },
+      {
+        "title": "Baby Corn Chilli Fry",
+        "cookTime": "20 minutes",
+        "image": "http://www.allindiarecipe.com/wp-content/uploads/2017/01/SAM_2250.jpg",
+        "ingredients": "• Msg (optional) - 1 pinch. • Vinegar - 1 tea spoon. • Tomato ketchup - 1 tablespoon. • Soya sauce - 1 tablespoon. • Green chilly sauce - 1 tea spoon. • Onion chopped - 1 number. • Garlic(chopped) - 4 clove. • Ginger(chopped) - 1 piece. • Oil - to fry. • Corn starch - 1/2 cup. • All purpose flour - 2 tablespoons. • Baby corns - 300 grams. • Cumin powder - 1/2 tea spoon. • Spring onions (chopped) - 2 tablespoons. • Salt - to taste. • Green chillies (chopped) - 3 numbers. • Bell peppers (green, yellow, red colours) - 1 cup. • Red chilly powder - 1 tablespoon. • Egg - 1 number",
+        "direction": "In a bowl, add baby corns, all purpose flour, toss it, add half an egg, mix this well, add corn starch coat with the baby corn and deep fry them. Take a pan add oil heat it, add chopped ginger, garlic, add chopped onions, salt, chopped green chilly, bell peppers(green, yellow, red), red chilly powder, toss it Add bottle green chilly sauce, soya sauce, tomato ketchup, vinegar, MSG (optional), cumin seeds powder (optional), spring onions. Add fried corns, toss them and switch off the flame.",
+        "userId": 1,
+        "id": 7,
+        "rating": 3
+      },
+      {
+        "title": "Crispy Chestnuts",
+        "cookTime": "12 min",
+        "image": "https://nutritionstripped.com/wp-content/uploads/2014/12/crispy-brussels-chestnuts6.jpg",
+        "ingredients": "•Tinned chestnuts 1 cup •Oil 1 tablespo to deep fry •Cornflour 2 teaspoons •Refined flour (maida) 2 teaspoons •Salt to taste •Soy sauce 1 teaspoon •Sweet red chilli sauce 4 tablespoons •Red chilli powder 1 1/2 teaspoons •Ginger finely chopped 2 teaspoons •Garlic finely chopped 2 teaspoons •Spring onions with greens 4",
+        "direction": "Take a pan add oil,garam masala, saute it add jeera, ginger garlic paste, vegetables cut a little bit long size mix well and add salt, need to cook till they are half cooked. Now add mint, coriander, green chillies, biryani masala mix half cup of curd, add paneer. Soak rice for 1 hr in abowl. Now boil water add rice to it, let the rice to be cooked half (70%) and strain the rice. Take a biryani bowl add half of the cooked vegetables spread all over the pan add some curd, nuts if required, salt, fry onions, add half rice, repeat the same process again. Lastly add fried onions, bread, close it with a lid, and cook it for 5 minutes on a very slow flame.",
+        "userId": 1,
+        "id": 8,
+        "rating": 4
+      },
+      {
+        "title": "Egg Cube Curry",
+        "cookTime": "30 Minutes",
+        "image": "http://sherebengal.com/wp-content/uploads/2017/09/Crispy-chilli-baby-corn.jpg",
+        "ingredients": "• Coriander leaves (chopped) - 1 bunch. • Red chilli powder - half tea spoon. • Coriander powder - 1 tablespoon. • Raw pistachio powder - 1 tea spoon. • Tomato puree - half cup. • Ginger garlic paste - 1 ½ tea spoon. • Milk - 2 cups. • Onion (chopped) - 1 number. • Cumin seeds - 1 tea spoon. • Mustard seeds - 1 tea spoon. • Eggs - 10 number. • Cilantro (chopped) - half bunch. • Salt - to taste. • Oil - as required.",
+        "direction": "In a bowl add onions, Cumin seeds, cilantro, redchilli powder, salt, garam masala powder along with eggs. Whisk the mixture well. Transfer the mixture to another container steam it. It can be steamed in oven or the steamer. Cut the steamed eggs into cubes .These cubes can be used in any kind of curry. For Milk sauce curry :-  Take a pan add oil in it. Add mustard seeds allow it to crackle then add cumin seeds , onions, salt, turmeric, ginger garlic paste, raw pista powder saute well. Add milk to the mixture bring it to a boil.Then add coriander powder, chilli powder, mix well. Reduce the heat add tomato puree at once to avoid curdling of milk. Add salt ,coriander leaves cook the sauce further. Add egg cubes at this point cook for 2 minutes.",
+        "userId": 1,
+        "id": 9,
+        "rating": 4
+      },
+      {
+        "title": "Spinach And Corn Fritters",
+        "cookTime": "25 minutes",
+        "image": "https://smittenkitchendotcom.files.wordpress.com/2018/07/corn-fritters.jpg?w=750",
+        "ingredients": "• Carrot (grated) - 1 number. • Spinach (chopped) - 1 bunch. • Nut meg - 1 pinch. • Salt - to taste. • Onion (chopped) - 1 number. • Butter - 3 tea spoon. • Corn - 1/2 cup. • Milk - 1+1/2 cup. • All purpose flour/maida - 1/2 cup. • Egg - 1/2 number. • Garlic (chopped) - 1 tablespoon. • Olive oil - 2 tablespoons.",
+        "direction": "Take some butter in a hot pan add chopped garlic, chopped onion, salt, nutmeg powder, all-purpose flour cook this until raw flavour is gone. Add corn, cook it for some time, add milk in small quantities, keep mixing it. Then put chopped spinach, grated carrot, egg, mix this cook it on slow flame then transfer it to another bowl. Heat olive oil in a pan, add small fritters of the mixture, fry them.",
+        "userId": 1,
+        "id": 10,
+        "rating": 3
+      },
+      {
+        "title": "Spring Roll",
+        "cookTime": "30-35 minutes",
+        "image": "https://cdn.wyza.com.au/media/1523/vegetarian-spring-rolls-retirementlivingtv.gif",
+        "ingredients": "• Spring roll sheets - 10 numbers. • Vegetales sliced - 1 number each 0. • Soy sauce - 0. • Ajnamoto - pinch 0. • Chilli powder - as needed 0. • Salt - as needed 0.",
+        "direction": "1. in a bowl add water and boil the vegetables then remove from water and drain it n a maslin cloth . 2. Add soya sauce,ajnamoto spices as need mix well then add this mixture to the spring roll sheets and roll but adding egg wash and deep fry.",
+        "userId": 1,
+        "id": 11,
+        "rating": 3
+      },
+      {
+        "title": "Veg Pizza",
+        "cookTime": "30-35 minutes",
+        "image": "https://5.imimg.com/data5/NT/AB/MY-17758356/jugal-bandi-non-veg-pizza-frontier-j08-500x500.png",
+        "ingredients": "2 teaspoons active dry yeast. 1 cup warm water. 3 cups all-purpose flour. 1 tablespoon white sugar. 1 tablespoon dried oregano. 1 teaspoon salt. 1 egg. 1 tablespoon extra-virgin olive oil.",
+        "direction": "Sprinkle yeast over warm water in a small bowl. The water should be no more than 100 degrees F (40 degrees C). Let stand for 5 minutes until yeast softens and begins to form a creamy foam. Sift flour, sugar, 1 tablespoon oregano, and 1 teaspoon salt into a large bowl. Mix egg and oil into dry ingredients; stir in yeast mixture. When dough has pulled together, turn out onto a lightly floured surface and knead until smooth and elastic, about 8 minutes. Lightly oil a large bowl, then place dough in bowl and turn to coat with oil. Cover with a light cloth and let rise in a warm place (80 to 95 degrees F (27 to 35 degrees C)) until doubled in volume, about 1 hour. Preheat oven to 450 degrees F (235 degrees C). Lightly grease a baking sheet. Cook and stir diced tomatoes, tomato paste, onion, 1 tablespoon oregano, garlic, onion powder, 1 teaspoon salt, and pepper in a saucepan over medium heat. Cook until sauce has thickened, 15 to 20 minutes. Punch down dough and turn it out onto a lightly floured surface. Use a knife to divide dough into two equal pieces--do not tear. Shape dough into rounds and let rest for 10 minutes. Form dough into rectangles, and place onto prepared baking sheet. Spoon tomato sauce over dough. Sprinkle with 1 1/4 cup mozzarella cheese; top with bell pepper, onion, and mushroom. Sprinkle 1/4 cup mozzarella cheese over top. Bake in preheated oven until crust is browned and crisp and cheese has melted, 20 to 25 minutes.",
+        "userId": 1,
+        "id": 12
+      },
+      {
+        "title": "Spicy Potato Curry",
+        "cookTime": "30-35 minutes",
+        "image": "http://omgies.com/wp-content/uploads/2016/01/image-fa43228aa7323de3dd7cf05d8ea1b6389d4affad669a8a8f69a900fe542f93b4-V.jpg",
+        "ingredients": "2 Cup potatoes (boiled and roughly mashed) •2 Tbsp oil (canola or vegetable) •1 tsp ginger paste• 1 Tbsp coarsely ground coriander (dhania)• 2 tsp coarsely ground fennel seeds (saunf)• 1/2 tsp red chili powder• 1 1/2 tsp salt• 1 tsp mango powder (amchoor) 1 Tbsp ginger (thinly sliced) 1 Tbsp green chili ",
+        "direction": "Heat the oil in a saucepan over medium heat. Add ginger paste, coriander, fennel seeds, and red chili powder, stir for about 1 minute Add potatoes and salt mix with spices, lower the heat to low medium, let it cook for about 3 minutes stirring occasionally. Add about 1-1/2 cups of water and mango powder stir and change the heat to medium high. As potatoes come to boil cover the pan and lower the heat to medium low and let it cook for about 4-5 minutes. Adjust the water in gravy to your liking; gravy will thicken as it will cool. Turn off the heat and add sliced ginger and green chilies and cover the pan.",
+        "userId": 1,
+        "id": 13
+      },
+      {
+        "title": "Spinach Enchiladas",
+        "cookTime": "30-35 minutes",
+        "image": "https://images.media-allrecipes.com/userphotos/720x405/454897.jpg",
+        "ingredients": "1 tablespoon butter•1/2 cup sliced green onions•2 cloves garlic, minced Garlic• 1 (10 ounce) package frozen chopped spinach , thawed, drained and squeezed dry•1 cup ricotta cheese•1/2 cup sour cream•2 cups shredded Monterey Jack cheese•10 (6 inch) corn tortillas•1 (19 ounce) can enchilada sauce",
+        "direction": "Preheat the oven to 375 degrees F (190 degrees C). Melt butter in a saucepan over medium heat. Add garlic and onion; cook for a few minutes until fragrant, but not brown. Stir in spinach, and cook for about 5 more minutes. Remove from the heat, and mix in ricotta cheese, sour cream, and 1 cup of Monterey Jack cheese. In a skillet over medium heat, warm tortillas one at a time until flexible, about 15 seconds. Spoon about 1/4 cup of the spinach mixture onto the center of each tortilla. Roll up, and place seam side down in a 9x13 inch baking dish. Pour enchilada sauce over the top, and sprinkle with the remaining cup of Monterey Jack. Bake for 15 to 20 minutes in the preheated oven, until sauce is bubbling and cheese is lightly browned at the edges.",
+        "userId": 1,
+        "id": 14,
+        "rating": 4
+      },
+      {
+        "title": "Tofu Stir-Fry",
+        "cookTime": "30-35 minutes",
+        "image": "https://raster-static.postmates.com/?url=https%3A%2F%2Fd1725r39asqzt3.cloudfront.net%2Fc5a77a53-6f35-4a36-871b-61bad271efad%2Forig.jpg&quality=85&w=640&h=0&mode=auto&format=jpg&v=4",
+        "ingredients": "6 tablespoons vegetable oil•2 cloves garlic, chopped•6 tablespoons soy sauce•6 tablespoons rice vinegar•1 tablespoon Thai chili sauce•3 tablespoons honey•8 ounces extra-firm tofu, cut into •1/4-inch cubes•1/2 (16 ounce) package linguine pasta•1 tablespoon sesame oil•8 ounces bean sprouts•8 ounces shredded carrots•1 green bell pepper, thinly sliced•8 green onions, halved lengthwise",
+        "direction": "Heat the vegetable oil in a wok over medium-high heat; cook and stir the garlic until lightly browned, about 2 minutes. Pour in the soy sauce, rice vinegar, chili sauce, and honey, stir to mix, and bring the mixture to a simmer. Reduce heat to medium-low, and let the sauce simmer for 10 minutes. Transfer the sauce to a bowl, and stir the tofu into the sauce. Set the tofu mixture aside. Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the linguine, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 11 minutes. Drain well in a colander set in the sink. While the pasta is boiling, heat the sesame oil in clean wok or large skillet; cook and stir the bean sprouts, carrots, green pepper, and green onions until the vegetables are bright in color and slightly wilted, about 5 minutes. Pour in the tofu with sauce and linguine; stir to combine.",
+        "userId": 1,
+        "id": 15
+      },
+      {
+        "title": "grilled vegetables",
+        "cookTime": "30-35 minutes",
+        "image": "https://www.bigfattummy.com/wp-content/uploads/2016/11/Paneer-Tikka-Tawa-Se-08-678x381.jpg",
+        "ingredients": "Butter - 1 tablespoon. • Green chilly - 4 numbers. • Curry leaves - 2 springs. • Ginger garlic paste - 1 tea spoon. • Salt - to taste. • Garam masala - 1/2 tea spoon. • Turmeric powder - 1/4 tea spoon. • All purpose flour - 1 tablespoon. • Rice flour - 1 tea spoon. • Corn starch - 1 tea spoon. • Paneer - 250 grams. • Coriander powder - 1/2 tea spoon. • Chilly powder - 1 tea spoon. • Pepper powder - 1 tablespoon. • Oil - to fry. • Lime juice - 1 tea spoon. • Coriander leaves(chopped) - 1 tablespoon.",
+        "direction": "Take a bowl add corn starch, rice flour, all purpose flour, turmeric powder, garam masala powder, salt, ginger garlic paste, water, make a thick paste. Put the paneer pieces in the paste and coat the masala and deep fry them and keep it aside. Heat a pan add curry leaves, green chilly, butter saute them and add coriander powder, chilly powder, pepper powder, salt and add fried paneer pieces toss it and sprinkle lime juice, coriander chopped and toss it.   ",
+        "userId": 1,
+        "id": 16,
+        "rating": 4
+      },
+      {
+        "title": "chesse Gravy",
+        "cookTime": "30-35 minutes",
+        "image": "https://i.ytimg.com/vi/-BF5H9-Xoh0/maxresdefault.jpg",
+        "ingredients": "• Msg (optional) - 1 pinch. • Vinegar - 1 tea spoon. • Tomato ketchup - 1 tablespoon. • Soya sauce - 1 tablespoon. • Green chilly sauce - 1 tea spoon. • Onion chopped - 1 number. • Garlic(chopped) - 4 clove. • Ginger(chopped) - 1 piece. • Oil - to fry. • Corn starch - 1/2 cup. • All purpose flour - 2 tablespoons. • Baby corns - 300 grams. • Cumin powder - 1/2 tea spoon. • Spring onions (chopped) - 2 tablespoons. • Salt - to taste. • Green chillies (chopped) - 3 numbers. • Bell peppers (green, yellow, red colours) - 1 cup. • Red chilly powder - 1 tablespoon. • Egg - 1 number",
+        "direction": "In a bowl add onions, Cumin seeds, cilantro, redchilli powder, salt, garam masala powder along with eggs. Whisk the mixture well. Transfer the mixture to another container steam it. It can be steamed in oven or the steamer. Cut the steamed eggs into cubes .These cubes can be used in any kind of curry. For Milk sauce curry :-  Take a pan add oil in it. Add mustard seeds allow it to crackle then add cumin seeds , onions, salt, turmeric, ginger garlic paste, raw pista powder saute well. Add milk to the mixture bring it to a boil.Then add coriander powder, chilli powder, mix well. Reduce the heat add tomato puree at once to avoid curdling of milk. Add salt ,coriander leaves cook the sauce further. Add egg cubes at this point cook for 2 minutes.",
+        "userId": 10,
+        "id": 17
+      }
+    ],
+    "desserts": [
+      {
+        "title": "Fruit Custard",
+        "cookTime": "30-35 minutes",
+        "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/15-june/Fruit_Custard_Recipe-2.jpg",
+        "ingredients": "• Sugar - 1-1/2 cup. • Milk - 4 cups. • Custard poder - 1/2 cup. • Mix fruits - 500 grams. • Whipped cream - 100 ml.",
+        "direction": "Heat milk and in some milk add custard powder and dissolve add sugar to milk and bring it to boil. Add the custard and milk mixture to boiling milk and mix continuously till it is thick and coats back of spoon cool down add fruits, cream mix it and, serve cold.",
+        "userId": 1,
+        "id": 1
+      },
+      {
+        "title": "Cashew Cubes",
+        "cookTime": "25 mins",
+        "image": "https://www.chezshuchi.com/images/kajubarfi_9.JPG",
+        "ingredients": "• Cashew nuts/kaju - 250 grams. • Ground sugar - 100 grams. • Water - 25 ml.",
+        "direction": "Grind cashew nuts, and sugar separately. Make a syrup with sugar and water, boiling only once. Add cashew nuts on low heat. Mix well. Remove from heat onto a smooth surface and roll out (thin) quickly with a rolling pin. At last, cut into squares/diamond shapes and serve it.",
+        "userId": 1,
+        "id": 2
+      },
+      {
+        "title": "Sweet Brown Roll",
+        "cookTime": "35 mins",
+        "image": "https://www.mallikasrestaurant.com/wp-content/uploads/2018/04/gulab-jamun.jpg",
+        "ingredients": "Carnation milk powder - 2 cups. • Sooji - 2 teaspoons. • Milk just enough to make the dough - as required. • Shortening - 2 teaspoons. • Baking powder - 1/2 tea spoon. • All purpose flour - 2 teaspoons. • Sugar - 2 cups. • Oil - 1 to fry. • Rose water - 2 tablespoons. • Water - 2 cups. • Cardamom powder - 1 tea spoon.",
+        "direction": "In a bowl add sugar and water, lime juice bring it to boil if required add rose water also. In another bowl add milk powder, shortening mix well then add maida or all purpose flour, baking powder mix well. Now add the soaked sooji remove the water and mix well. Now add little by little milk and make into a dough and keep aside for 10minutes. After 10minutes make the dough into small ball and deep fry them and add to the sugar syrup.",
+        "userId": 1,
+        "id": 3
+      },
+      {
+        "title": "Sweet Cream (Ras-Malai)",
+        "cookTime": "30 mins\t",
+        "image": "https://i0.wp.com/www.morethancurry.com/wp-content/uploads/2017/09/IMG_4334-2.jpg?resize=700%2C467",
+        "ingredients": "Blanched almonds, thinly cut into slivers - 5-6 number. • Green cardamom seed powder or a little rose essence - 1 tea spoon. • Sugar for rabadi - 4 tablespoons. • Milk for making rabri - 1000 ml. • Water - 6 cups. • Sugar - 1 cup. • Soft paneer made from milk - 1000 ml.",
+        "direction": "Make paneer as instructed, hang in muslin for 1 hour, but do not press it. Boil water, add 1 cup of sugar and 6 cups of water in a deep vessel until it boils vigorusly. Knead paneer until very smooth with in the cloth . Make into walnut sized balls, flattening them a little, like a peda or a small burger. Adding to boiling water/sugar water and boil at high flame and the rasgullas will be ready in 10 min Remove and let it sit in some of same syrup till it cools down sqeeze out the water and soak in rabadi.serve garnished with flakes of almonds.",
+        "userId": 1,
+        "id": 4
+      },
+      {
+        "title": "Carrot Pudding",
+        "cookTime": "35 mins",
+        "image": "http://3.bp.blogspot.com/-H_ZMFG9KlKA/Us2MmJ5nZpI/AAAAAAAAFUI/nVdBDsQuvxo/s1600/Halva001L.jpg",
+        "ingredients": "Ghee (clarified butter) - 2 teaspoons. • Casewnuts - 1 tablespoon. • Cardamoms (skinned and crushed fine) - 2 number. • Carrots (grated finely) - 4 cup. • Milk - 4 cup. • Sugar - 1 cup. • Curdled milk or ricotta cheese - 3 tablespoons. • Almonds (chopped) - 1 tablespoon. • Raisins - 1 tea spoon.",
+        "direction": "Roast dry fruits in ghee and keep aside. Grate and cook the carrots by pouring milk in an open pan on low flame,with constant stirring. When carrot is cooked, add sugar and cook untilit gets to a slightly thicker consistency. Then add curdled milk or koya and cook for few more minutes with constant stirring.",
+        "userId": 1,
+        "id": 5
+      },
+      {
+        "title": "Chocolate Fudge Cake",
+        "cookTime": "30-35 minutes",
+        "image": "https://images.heb.com/is/image/HEBGrocery/002057344",
+        "ingredients": "1 14 oz sweetened condensed milk (canned)• 1 Tbsp butter 4 oz dark chocolate (chopped in small pieces)• 6 oz sweetened milk chocolate (chopped in small pieces)• 1 Tbsp vanilla extract• 1-1/2 cups walnuts (chopped)",
+        "direction": "First line 8-inch square pan with buttered parchment paper or use aluminum foil. Microwave condensed milk, and butter for 1-1/2 minute. Stir to combine the butter and condense milk.  Add chocolate stir lightly till chocolate is melted, if needed microwave for about 20 seconds again.  Add chopped nuts and vanilla extract, mix it well. Spread in prepared pan.  Refrigerate for about three hours then cut into squares.",
+        "userId": 1,
+        "id": 6
+      },
+      {
+        "title": "Crispy Jalebi",
+        "cookTime": "30-35 minutes",
+        "image": "https://kitchen.desibantu.com/files/2011/03/jalebi.jpg",
+        "ingredients": "1 cup all-purpose flour,• minus 2 Tablespoons• 2 tablespoons corn starch •Pinch of citric acid •1 teaspoon oil •1 teaspoon Yeast •1-1/2 cup lukewarm water",
+        "direction": "Heat the oil in a flat frying pan about one inch deep. To test, put one drop of batter in the oil. The batter should sizzle and rise into a ball without changing color right away. Fill the Jalebi batter into a piping bag with a #3 nozzle. You can also use an empty ketchup or mustard bottle. That’s what I am using. Squeeze the Jalebi batter out into the hot oil in pretzel shapes about three inches in diameter. Fry the jalebis until light golden brown on both sides. Take them out, wait for a minute then transfer them into the warm syrup. Let the jalebis soak in the syrup for about half a minute, take them out. Repeat the process. Jalebies are ready to serve.",
+        "userId": 1,
+        "id": 7
+      },
+      {
+        "title": "Mini Cheesecakes ",
+        "cookTime": "30-35 minutes",
+        "image": "http://assets.kraftfoods.com/recipe_images/opendeploy/582991_1_1_retail-2c294dd5f493db35090f7c95f565d38415eae5a5_642x428.jpg",
+        "ingredients": "1 (12 ounce) package vanilla wafers2• (8 ounce) packages cream• cheese3/4 cup white sugar",
+        "direction": "Preheat oven to 350 degrees F (175 degrees C). Line miniature muffin tins (tassie pans) with miniature paper liners. Crush the vanilla wafers, and place 1/2 teaspoon of the crushed vanilla wafers into each paper cup. In a mixing bowl, beat cream cheese, sugar, eggs and vanilla until light and fluffy. Fill each miniature muffin liner with this mixture, almost to the top. Bake for 15 minutes. Cool. Top with a teaspoonful of cherry pie filling.",
+        "userId": 1,
+        "id": 8
+      },
+      {
+        "title": "Fresh Cherry Cobbler",
+        "cookTime": "30-35 minutes",
+        "image": "data:image/jpeg;base64,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",
+        "ingredients": "1/2 cup butter•1 cup all-purpose flour•1 cup white sugar Sugar in the Raw• Turbinado Natural Cane Sugar 100 ",
+        "direction": "Preheat the oven to 350 degrees F (175 degrees C). Place the butter in a 9x13 inch baking dish, and place in the oven to melt while the oven is preheating. Remove as soon as butter has melted, about 5 minutes. In a medium bowl, stir together 1 cup of flour, 1 cup of sugar, and baking powder. Mix in the milk until well blended, then pour the batter into the pan over the butter. Do not stir. Rinse out the bowl from the batter, and dry. Place cherries into the bowl, and toss with the remaining 3/4 cup of sugar and 1 tablespoon of flour. Distribute the cherry mixture evenly over the batter. Do not stir. Bake for 50 to 60 minutes in the preheated oven, until golden brown. A toothpick inserted into the cobber should come out clean.",
+        "userId": 1,
+        "id": 9
+      }
+    ],
+    "reviews": [
+      {
+        "review": "looks yummy\n",
+        "time": "10/1/2018, 2:42:41 PM",
+        "name": "Priyanka",
+        "userId": 1,
+        "id": 1
+      }
+    ],
+    "drinks": [
+      {
+        "title": "Gypsy Queen",
+        "cookTime": "5-7 minutes",
+        "image": "https://cdn.liquor.com/wp-content/uploads/2012/06/gypsy-queen.jpg",
+        "ingredients": "2 oz Russian Standard Vodka•1 oz Bénédictine•2 dashes Angostura bitters",
+        "direction": "Add all the ingredients to a mixing glass and fill with cracked ice.  Stir, and strain into a chilled cocktail glass.  Twist a swatch of thin-cut lemon peel over the top and discard.",
+        "userId": 1,
+        "id": 1
+      },
+      {
+        "title": "Cucumber, Basil & Lime Gimlet",
+        "cookTime": "5-7 minutes",
+        "image": "https://cdn.liquor.com/wp-content/uploads/2013/02/19115113/cucumber-basil-lime-gimlet-720-720-recipe.jpg",
+        "ingredients": "1 1⁄2 oz Vodka Try it with Absolut •2 slices Cucumber (.25 inches)• 1 1⁄2  Fresh basil leaves •1 oz Lemonade• 1⁄4 oz Fresh lime juice",
+        "direction": "Muddle the basil and cucumber in a shaker.  Add the remaining ingredients and ice and shake.  Strain into a rocks glass over fresh ice.  Garnish with a lime wedge or cucumber wheel.",
+        "userId": 1,
+        "id": 2
+      },
+      {
+        "title": "Red, White & Night",
+        "cookTime": "7 minutes",
+        "image": "https://cdn.liquor.com/wp-content/uploads/2016/08/03114045/11-Essential-Vodka-Cocktails-to-Try-Right-Now-red-white-and-night-720x720-slideshow.jpg",
+        "ingredients": "2 oz Cabernet sauvignon wine• 2 oz Vodka 1 oz Simple syrup• 1 oz Freshly squeezed lemon juice  ",
+        "direction": "Add all the ingredients to a shaker and fill with ice.  Shake, and strin into a highball glass filled with fresh ice.  Garnish with 3 blueberries or black raspberries coated in powdered sugar.",
+        "userId": 1,
+        "id": 3
+      },
+      {
+        "title": "fresh Betel Cocktail",
+        "cookTime": "10 minutes",
+        "image": "http://2.bp.blogspot.com/-RUisxyq4WvE/VRAlh0qxddI/AAAAAAAAZa8/Kig2ye5fMx8/s1600/SOI%2B7%2BHong%2BKong%2BCocktail%2B1.jpg",
+        "ingredients": "2 fresh paan leaves• 4 cardamom• 1 spoon gulkand• 45ml vodka• 15ml sambuca• 1 maraschino cherry",
+        "direction": "Muddle the paan leaf, gulkand and cardamom in a cocktail shaker. Add vodka and sambuca to this concoction. Add ice and shake well. Fine strain this into a glass filled with ice and paan leaves. Garnish with cardamom and cherry.",
+        "userId": 1,
+        "id": 4
+      },
+      {
+        "title": "SPICED WINE",
+        "cookTime": "10 minutes",
+        "image": "https://s.aolcdn.com/dims-shared/dims3/GLOB/crop/1800x1200+0+0/resize/590x393!/format/jpg/quality/85/https://s.aolcdn.com/hss/storage/midas/4041f19360e8c5f1b9b1ba0f9fba264f/204518229/sPICED+WINE.jpg",
+        "ingredients": "1 bottle red wine• 60gm demerara sugar• 1 cinnamon stick• A pinch of grated nutmeg• 8 cloves• 2 big black cardamom• 1 orange, sliced into half •1 dried bay leaf• 60ml sloe or damson gin (optional)",
+        "direction": "Put the wine in a saucepan with the orange, sugar, bay leaf and the spices. Heat gently until the sugar has dissolved. Taste to see if you want the wine sweeter. Once you've taken the wine off the heat, stir in the sloe or damson gin if you are using it. Strain into heatproof glasses and serve immediately.",
+        "userId": 1,
+        "id": 5
+      },
+      {
+        "title": "Spiced Moscow Mule",
+        "cookTime": "12-15 inutes",
+        "image": "https://static1.squarespace.com/static/5370ec08e4b0f6c6b67e1b7a/t/58c03c61a5790a1ebbb33fe9/1488993379614/Skinny+Mule.jpg",
+        "ingredients": "60ml vodka• 20ml lime juice• 20ml home made ginger syrup (here's how to make it) •Ginger beer Spices of your choice",
+        "direction": "Combine all the ingredients and mix. Top with ginger beer and garnish with fragrant spices.",
+        "userId": 1,
+        "id": 6
+      },
+      {
+        "title": "SMOKEY ORANGE JAM",
+        "cookTime": "12 min",
+        "image": "https://cdn.vox-cdn.com/thumbor/jvKqFqJegMOvLXUOhLuPAlwaCqs=/0x0:726x545/1200x800/filters:focal(0x0:726x545)/cdn.vox-cdn.com/uploads/chorus_image/image/45780206/smokynegroni3.0.0.jpg",
+        "ingredients": "1 freshly grilled orange• A couple of freshly chopped strawberries• Black pepper• Tequila Whiskey (Tennessee has been used for this recipe)• Marmalade",
+        "direction": "In a bar shaker, muddle the strawberries and grilled orange. Top with ice, add the tequila, whiskey and marmalade. Cover and shake till the shaker has a frosted look around it (approximately 30-40 seconds). Strain and serve in a martini glass. Garnish with a bit of the grilled orange and a pinch of black pepper.",
+        "userId": 1,
+        "id": 7
+      },
+      {
+        "title": "Sugarcane Mojito",
+        "cookTime": "12 min",
+        "image": "https://www.laylita.com/recipes/wp-content/uploads/2014/03/Tangerine-or-mandarin-mojitos.jpg",
+        "ingredients": "5 Oz Suger Cane Juice • 2 oz Vodka • salt and black pepper",
+        "direction": "This healthy concoction has great benefits and is the perfect way to cool off in the summer. It is made by mixing good old ganne ka juice with vodka. You could add some chaat masala and cumin powder for a greater depth of flavor as well. Top it off with strips of sugarcane soaked in vodka and mint leaves to lend your palate a refreshing taste. Don't forget to chew on the sugarcane sticks once you are done sipping this great cocktail.",
+        "userId": 1,
+        "id": 8
+      }
+    ],
+    "favorites": [
+      {
+        "userId": 1,
+        "recipeId": 6,
+        "review": "",
+        "rating": 0,
+        "id": 2
+      },
+      {
+        "userId": 1,
+        "recipeId": 10,
+        "review": "",
+        "rating": 0,
+        "id": 4
+      },
+      {
+        "userId": 10,
+        "recipeId": 10,
+        "review": "",
+        "rating": 0,
+        "id": 5
+      }
+    ]
+  }
